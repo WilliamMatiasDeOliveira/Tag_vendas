@@ -1,0 +1,20 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+ /**** PAGINA INDEX *********************/
+
+ body{
+    background-color: rgb(54, 54, 54);
+ }
+ .container{
+    margin-top: 10em;
+    padding: 2em;
+    
+ }
+
+ .container label{
+    color: grey;
+    font-size: 20px;
+    font-weight: bold;
+ }
+
